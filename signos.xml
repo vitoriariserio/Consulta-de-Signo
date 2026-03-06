@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+
+  <signo>
+    <signoNome>Aquário</signoNome>
+    <simbolo>♒</simbolo>
+    <dataInicio>20/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <elemento>Ar</elemento>
+    <qualidade>Fixo</qualidade>
+    <planetaRegente>Urano</planetaRegente>
+    <cor>Azul</cor>
+    <pedra>Ametista</pedra>
+    <descricao>Aquário é um signo inovador, independente e visionário. Pessoas aquarianas costumam ser criativas, humanitárias e gostam de liberdade. Valorizam amizades e ideias originais. Signos compatíveis: Gêmeos, Libra e Sagitário.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Peixes</signoNome>
+    <simbolo>♓</simbolo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <elemento>Água</elemento>
+    <qualidade>Mutável</qualidade>
+    <planetaRegente>Netuno</planetaRegente>
+    <cor>Verde-mar</cor>
+    <pedra>Ametista</pedra>
+    <descricao>Peixes é sensível, intuitivo e sonhador. Piscianos são empáticos, românticos e possuem forte imaginação. Gostam de ajudar e se conectam profundamente com as emoções. Signos compatíveis: Câncer, Escorpião e Touro.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Áries</signoNome>
+    <simbolo>♈</simbolo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <elemento>Fogo</elemento>
+    <qualidade>Cardinal</qualidade>
+    <planetaRegente>Marte</planetaRegente>
+    <cor>Vermelho</cor>
+    <pedra>Rubi</pedra>
+    <descricao>Áries é determinado, corajoso e cheio de energia. Ariana(o)s são líderes naturais, competitivos e gostam de desafios. Agem com entusiasmo e iniciativa. Signos compatíveis: Leão, Sagitário e Gêmeos.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Touro</signoNome>
+    <simbolo>♉</simbolo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <elemento>Terra</elemento>
+    <qualidade>Fixo</qualidade>
+    <planetaRegente>Vênus</planetaRegente>
+    <cor>Verde</cor>
+    <pedra>Esmeralda</pedra>
+    <descricao>Touro é estável, paciente e confiável. Taurinos valorizam conforto, segurança e são muito dedicados. Gostam de estabilidade e apreciam os prazeres da vida. Signos compatíveis: Virgem, Capricórnio e Câncer.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Gêmeos</signoNome>
+    <simbolo>♊</simbolo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <elemento>Ar</elemento>
+    <qualidade>Mutável</qualidade>
+    <planetaRegente>Mercúrio</planetaRegente>
+    <cor>Amarelo</cor>
+    <pedra>Ágata</pedra>
+    <descricao>Gêmeos é comunicativo, curioso e versátil. Geminianos são inteligentes, sociáveis e se adaptam facilmente a diferentes situações. Gostam de aprender e conversar. Signos compatíveis: Libra, Aquário e Áries.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Câncer</signoNome>
+    <simbolo>♋</simbolo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <elemento>Água</elemento>
+    <qualidade>Cardinal</qualidade>
+    <planetaRegente>Lua</planetaRegente>
+    <cor>Branco</cor>
+    <pedra>Pérola</pedra>
+    <descricao>Câncer é emocional, protetor e intuitivo. Cancerianos são carinhosos, ligados à família e valorizam segurança emocional. Demonstram cuidado e lealdade. Signos compatíveis: Peixes, Escorpião e Touro.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Leão</signoNome>
+    <simbolo>♌</simbolo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <elemento>Fogo</elemento>
+    <qualidade>Fixo</qualidade>
+    <planetaRegente>Sol</planetaRegente>
+    <cor>Dourado</cor>
+    <pedra>Olho-de-tigre</pedra>
+    <descricao>Leão é confiante, generoso e carismático. Leoninos gostam de brilhar, são criativos e possuem forte presença. São leais e protetores com quem amam. Signos compatíveis: Áries, Sagitário e Libra.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Virgem</signoNome>
+    <simbolo>♍</simbolo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <elemento>Terra</elemento>
+    <qualidade>Mutável</qualidade>
+    <planetaRegente>Mercúrio</planetaRegente>
+    <cor>Bege</cor>
+    <pedra>Jaspe</pedra>
+    <descricao>Virgem é organizado, analítico e dedicado. Virginianos são detalhistas, responsáveis e gostam de ajudar. Buscam perfeição e eficiência em tudo que fazem. Signos compatíveis: Touro, Capricórnio e Câncer.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Libra</signoNome>
+    <simbolo>♎</simbolo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <elemento>Ar</elemento>
+    <qualidade>Cardinal</qualidade>
+    <planetaRegente>Vênus</planetaRegente>
+    <cor>Rosa</cor>
+    <pedra>Quartzo rosa</pedra>
+    <descricao>Libra é diplomático, equilibrado e encantador. Librianos valorizam harmonia, justiça e relacionamentos. São sociáveis e apreciam beleza e parceria. Signos compatíveis: Gêmeos, Aquário e Leão.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Escorpião</signoNome>
+    <simbolo>♏</simbolo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <elemento>Água</elemento>
+    <qualidade>Fixo</qualidade>
+    <planetaRegente>Plutão</planetaRegente>
+    <cor>Preto</cor>
+    <pedra>Obsidiana</pedra>
+    <descricao>Escorpião é intenso, determinado e misterioso. Escorpianos são profundos, leais e muito passionais. Possuem grande força emocional e foco. Signos compatíveis: Câncer, Peixes e Capricórnio.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Sagitário</signoNome>
+    <simbolo>♐</simbolo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <elemento>Fogo</elemento>
+    <qualidade>Mutável</qualidade>
+    <planetaRegente>Júpiter</planetaRegente>
+    <cor>Roxo</cor>
+    <pedra>Turquesa</pedra>
+    <descricao>Sagitário é aventureiro, otimista e sincero. Sagitarianos gostam de liberdade, viagens e novos conhecimentos. São entusiasmados e diretos. Signos compatíveis: Áries, Leão e Aquário.</descricao>
+  </signo>
+
+  <signo>
+    <signoNome>Capricórnio</signoNome>
+    <simbolo>♑</simbolo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>19/01</dataFim>
+    <elemento>Terra</elemento>
+    <qualidade>Cardinal</qualidade>
+    <planetaRegente>Saturno</planetaRegente>
+    <cor>Marrom</cor>
+    <pedra>Ônix</pedra>
+    <descricao>Capricórnio é disciplinado, responsável e ambicioso. Capricornianos são focados em objetivos, pacientes e confiáveis. Valorizam trabalho e estabilidade. Signos compatíveis: Touro, Virgem e Escorpião.</descricao>
+  </signo>
+
+</signos>
