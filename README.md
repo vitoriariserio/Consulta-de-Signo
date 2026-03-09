@@ -11,3 +11,6 @@ Um site desenvolvido para obtenção de nota no portifolio do 5 semestre da UNOP
 ## ⚡️ PROJETO EM FUNCIONAMENTO ⚡️
 
 
+![Image](https://github.com/user-attachments/assets/821fdf4a-31a9-4a4f-b64a-33b50f8672f8) 
+
+
